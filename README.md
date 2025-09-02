@@ -70,23 +70,25 @@ Share your forked repository link with the organizers by **September 6, 2025**!
 # 🌸 [Your Name]'s Pookalam 2025 🌸
 
 ## 👨‍💻 About Me
-- **Name:** [Your Full Name]
-- **Institution/Company:** [Your School/College/Company]
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **Programming Language Used:** [Language]
+- **Name:** [MANUKRISHNA CK]
+- **Institution/Company:** [GEC PALAKKAD]
+- **GitHub:** [@manukrishna804](https://github.com/manukrishna804)
+- **Programming Language Used:** [python]
 
 ## 🎨 My Pookalam
 
 ### Description
-[Write a brief description of your Pookalam design, inspiration, or the approach you took]
+[This project presents a Digital Pookalam (floral carpet) created using Python’s matplotlib and numpy. Traditionally, a Pookalam is made with real flowers during the Onam festival in Kerala, symbolizing harmony and prosperity.
+
+The inspiration behind this design was to capture the essence of a real Pookalam while exploring the possibilities of art through code. The design uses mathematical symmetry, colorful geometric patterns, and layered structures to recreate the floral arrangement digitally. Each layer — from the central circle to petals, rings, and decorative stars — is carefully crafted to resemble the festive beauty of traditional Pookalams]
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam](output/screenshot.png)
 *Add more images if you have multiple views or animations*
 
 ### Features
-- [Feature 1 - e.g., "Colorful geometric patterns"]
-- [Feature 2 - e.g., "Interactive elements"]
+- [Feature 1 - e.g., "🌸 Colorful Geometric Patterns – Multiple layers of circles, petals, wedges, and stars arranged in perfect symmetry."]
+- [Feature 2 - e.g., "🎨 Festive Theme – Bright and vibrant color combinations inspired by traditional Onam Pookalams."]
 
 ## 🚀 How to Run
 
@@ -100,18 +102,17 @@ pip install matplotlib turtle numpy
 ### Running the Code
 ```bash
 # Add your specific run commands here
-python pookalam.py
+python main.py
 # or
-open index.html
-# or your specific instructions
+
 ```
 
 ## 📁 File Structure
 ```
 Code-a-Pookalam-2025/
 ├── README.md (this file)
-├── pookalam.py (or your main file)
-└── requirements.txt (if applicable)
+├── main.py (or your main file)
+└── output/screenshot.png
 ```
 
 ## 🎊 Happy Onam! 🎊
